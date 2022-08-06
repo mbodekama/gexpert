@@ -1,0 +1,13 @@
+{
+    "name": "mbodekama/gexpert",
+    "description": "GEXPERT WEBSITE BY ATOUM",
+    "type": "project",
+    "license": "GPU",
+    "authors": [
+        {
+            "name": "mbodekama"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
