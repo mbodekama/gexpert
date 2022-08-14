@@ -33,7 +33,7 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="slider-content">
-                                <h1>Nous fournissons une impression de bonne qualité</h1>
+                                <h1>Besoin de matériel de bureau ?</h1>
                                 <p>
                                     Chez nous la qualité fait la différence !
                                 </p>
@@ -52,7 +52,7 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="slider-content">
-                                <h1>Centre d'impression fiable</h1>
+                                <h1>  </h1>
                                 <p>
                                    Pour vos préocupation, faites nous confiance!
                                 </p>
