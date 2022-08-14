@@ -34,7 +34,7 @@ $distribution= 0;
         <!-- Nice Select CSS -->
         <link rel="stylesheet" href="assets/css/nice-select.min.css">
         <!-- Style CSS -->
-        <link rel="stylesheet" href="assets/css/style5.css">
+        <link rel="stylesheet" href="assets/css/style1.css">
         <!-- Responsive CSS -->
         <link rel="stylesheet" href="assets/css/responsive.css">
 

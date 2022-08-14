@@ -19,8 +19,8 @@
                                   Nous vous fournissons de meilleurs solutions!
                                 </p>
                                 <div class="slider-btn">
-                                    <a href="#" class="default-btn">Savoir plus</a>
-                                    <a href="product.html" class="default-btn active">Nos produits</a>
+                                    <a href="crea_logi.php" class="default-btn">Savoir plus</a>
+                                    <a href="vente.php" class="default-btn active">Nos service</a>
                                 </div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                     Chez nous la qualité fait la différence !
                                 </p>
                                 <div class="slider-btn">
-                                    <a href="#" class="default-btn">Savoir plus</a>
-                                    <a href="product.html" class="default-btn active">Nos produits</a>
+                                    <a href="fourniture.php" class="default-btn">Savoir plus</a>
+                                    <a href="vente.php" class="default-btn active">Nos produits</a>
                                 </div>
                             </div>
                         </div>
@@ -52,13 +52,13 @@
                     <div class="d-table-cell">
                         <div class="container">
                             <div class="slider-content">
-                                <h1>  </h1>
+                                <h1>Prestation informatique , communition...  </h1>
                                 <p>
-                                   Pour vos préocupation, faites nous confiance!
+                                Faites nous confiance pour la qualité.
                                 </p>
                                 <div class="slider-btn">
-                                    <a href="#" class="default-btn">Savoir plus</a>
-                                    <a href="product.html" class="default-btn active">Nos produits</a>
+                                    <a href="location_copieur.php" class="default-btn">Savoir plus</a>
+                                    <a href="vente.php" class="default-btn active">Nos produits</a>
                                 </div>
                             </div>
                         </div>
@@ -96,6 +96,8 @@
         <!-- Product Images End -->
         
         <h3>MEILLEURS VENTE ET NOUVEAUX PRODUITS</h3>
+
+        
         <h3>SLIDE DE PUBLICITE</h3>
 
         <!-- Service Area -->
